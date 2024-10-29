@@ -1,0 +1,15 @@
+{
+  "name": "doodles",
+  "version": "0.0.1",
+  "description": "Learning to make component library in React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jay-Karia",
+  "license": "MIT",
+  "devDependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
