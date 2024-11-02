@@ -19,3 +19,17 @@ export const Default: Story = {
     children: "Text",
   }
 }
+
+export const Italic: Story = {
+  args: {
+    children: "Italics",
+    italic: true
+  }
+}
+
+export const Underline: Story = {
+  args: {
+    children: "Underline",
+    underline: true
+  }
+}
