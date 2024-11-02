@@ -1,7 +1,7 @@
 {
-  "name": "doodles",
-  "private": true,
-  "version": "0.0.0",
+  "name": "@jay-karia/doodles",
+  "private": false,
+  "version": "0.0.1",
   "type": "module",
   "files": [
     "dist"
