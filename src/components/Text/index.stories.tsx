@@ -33,3 +33,10 @@ export const Underline: Story = {
     underline: true
   }
 }
+
+export const Heading1: Story = {
+  args: {
+    children: "Heading 1",
+    as: "h1"
+  }
+}
