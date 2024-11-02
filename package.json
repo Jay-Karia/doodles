@@ -3,15 +3,16 @@
   "private": false,
   "version": "0.0.2",
   "type": "module",
+  "license": "MIT",
   "files": [
     "dist"
   ],
-  "main": "dist/jk-doodles-umd.cjs",
+  "main": "dist/jk-doodles.umd.cjs",
   "module": "dist/jk-doodles.js",
   "exports": {
     ".": {
       "import": "./dist/jk-doodles.js",
-      "require": "./dist/jk-doodles-umd.cjs"
+      "require": "./dist/jk-doodles.umd.cjs"
     }
   },
   "scripts": {
